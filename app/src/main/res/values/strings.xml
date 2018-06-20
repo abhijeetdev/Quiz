@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string name="question1">1. What is the brain of the computer?</string>
+    <string name="question_1_option_1">Motherboard</string>
+    <string name="question_1_option_2">Memory</string>
+    <string name="question_1_option_3">CPU</string>
+
+    <string name="question_2">2.  What is the first name of the famous scientist who gave us three laws of motion?</string>
+
+    <string name="question_3">3. What are the parts of the computer?</string>
+    <string name="question_3_option_1">Motherboard</string>
+    <string name="question_3_option_2">Temporal lobe</string>
+    <string name="question_3_option_3">CPU</string>
+    <string name="question_3_option_4">Wings</string>
+
+    <string name="question_4">4. Information that is broken down into small chunks before it is sent to another computer are called...?</string>
+    <string name="question_4_answer">packets</string>
+    <string name="all_answers_correct">Awesome! You scored 4 out of 4</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="question_2_answer">isaac</string>
+</resources>
